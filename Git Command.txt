@@ -7,3 +7,9 @@ mkdir directoryname
 git init
 
 Note: user should be into the directory that want to be make GIT repository
+
+3- How to know the status of a git?
+git status
+
+4- How to know the history of a git?
+git log
