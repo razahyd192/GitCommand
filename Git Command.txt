@@ -1,0 +1,9 @@
+---------------------GIT Commands------------------------------
+
+1- How to create drictory in GIT
+mkdir directoryname
+
+2- How to change a simple directory into a GIT repository
+git init
+
+Note: user should be into the directory that want to be make GIT repository
