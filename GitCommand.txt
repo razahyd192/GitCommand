@@ -13,3 +13,9 @@ git status
 
 4- How to know the history of a git?
 git log
+
+5- How to fetch changes from the remote repository
+git fetch
+
+6- How to pull the changes from remote repository into local repository
+git pull origin master
