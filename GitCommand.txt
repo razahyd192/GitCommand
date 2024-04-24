@@ -38,4 +38,16 @@ git push -u origin master
 This command pushes your local master branch to the origin remote.
 If you are working on a different branch, replace master with your branch name.
 
+10-How to Stage the changes
+First, you need to stage the changes you want to commit. You can do this using git add to add specific files or directories to the staging area.
 
+# Stage a specific file
+git add <file_name>
+
+# Stage all changes
+git add .
+
+11- How to commit the changes
+Once your changes are staged, you can commit them with a commit message using git commit.
+
+git commit -m "Add descriptive commit message here"
