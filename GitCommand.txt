@@ -28,3 +28,14 @@ git remote add origin <url>
 git remote -v
 
 This command will show the remote URL for fetch and push operations.
+
+9- Push Local Repository to Remote
+
+Push your local repository to the remote repository:
+
+git push -u origin master
+
+This command pushes your local master branch to the origin remote.
+If you are working on a different branch, replace master with your branch name.
+
+
