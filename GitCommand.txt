@@ -19,3 +19,12 @@ git fetch
 
 6- How to pull the changes from remote repository into local repository
 git pull origin master
+
+7- How to link local repository with remote
+# Add the remote URL (replace <url> with your repository URL)
+git remote add origin <url>
+
+8- How to verify the remote setup
+git remote -v
+
+This command will show the remote URL for fetch and push operations.
