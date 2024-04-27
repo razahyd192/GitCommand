@@ -51,3 +51,10 @@ git add .
 Once your changes are staged, you can commit them with a commit message using git commit.
 
 git commit -m "Add descriptive commit message here"
+
+12- How to cofig or add user name and email
+git config user.name "User's Name"
+git config user.email "user@gmail.com"
+
+13- How to check the user added successfully or not
+git config --list
