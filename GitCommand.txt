@@ -58,3 +58,6 @@ git config user.email "user@gmail.com"
 
 13- How to check the user added successfully or not
 git config --list
+
+14- How to clone repository exist on github
+git clone <Git url to be clone>
